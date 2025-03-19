@@ -10,7 +10,7 @@
 
 <h2>📂 Projects:</h2>
 <p>- <b>Capstone Project:</b> Advanced spatial analysis and automation skills  
-  - [Capstone GIS Project](https://github.com/philipenyinnaya/Portfolio/tree/main/capstone)</p>
+  - [Capstone GIS Project]([https://github.com/philipenyinnaya/Portfolio/tree/main/capstone](https://github.com/philipenyinnaya/CapStone-Project))</p>
 <p>- <b>Coordinate Converter:</b> Python tool for spatial reference conversion  
   - [Coordinate-Converter](https://github.com/philipenyinnaya/Portfolio/tree/main/coordinate-converter)</p>
 <p>- <b>Story Maps:</b> Interactive maps using ArcGIS Experience Builder  
